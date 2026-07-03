@@ -1,0 +1,19 @@
+# ===================================
+# PROYECTO FARO
+# Archivos que Git debe ignorar
+# ===================================
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
